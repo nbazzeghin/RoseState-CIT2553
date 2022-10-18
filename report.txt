@@ -1,0 +1,61 @@
+###### 09/24/2022 23:10:25 ######
+24E488D2D0878EF6B7C1063BED2BCA64    stego.cyber.rose.edu\Berlin Wall/BerlinWall (544).jpg                  calumny                    negative 
+0455BA9C2C28B7DEFF743A9DAC326A51    stego.cyber.rose.edu\Berlin Wall/BerlinWall (520).jpg                  Fedora                     negative 
+96462D0B99EC34CDD680D8A6A1611771    stego.cyber.rose.edu\Berlin Wall/BerlinWall (246).jpg                  Lennox                     negative 
+313A01211D366B5C6B84E8CE1749277F    stego.cyber.rose.edu\Berlin Wall/BerlinWall (613).jpg                  protrude                   negative 
+0A384F99FF818C296FBF92F2D1D9AD96    stego.cyber.rose.edu\Berlin Wall/BerlinWall (416).jpg                  subgroup                   jphide(*)
+1B5A541F6D1BC9A3C5E9451CFDE1C074    stego.cyber.rose.edu\Great Wall of China/GreatWallOfChina (832).jpg    agrees                     jphide(***)
+18005150A6C87A2D8B9A406EC9FB18F4    stego.cyber.rose.edu\Great Wall of China/GreatWallOfChina (11).jpg     fencing                    jphide(***)
+33F8875D7CBAF4528642C46AC5FB1FF0    stego.cyber.rose.edu\Great Wall of China/GreatWallOfChina (162).jpg    ferments                   jphide(***)
+9132B0B6A4AE2E98C48996B24E171A9B    stego.cyber.rose.edu\Great Wall of China/GreatWallOfChina (14).jpg     threats                    jphide(***)
+CD70A50B1F73EDF4511A49A3E4818AE2    stego.cyber.rose.edu\Great Wall of China/GreatWallOfChina (34).jpg     worse                      jphide(*)
+21E7EFC650A6D3F24FC4EEF4341D085D    stego.cyber.rose.edu\Hadrians Wall/HadriansWall (304).jpg              dandy                      jphide(**)
+A268F73AFF9A8BCFCF84FDED3BBA0437    stego.cyber.rose.edu\Hadrians Wall/HadriansWall (339).jpg              dangle                     jphide(*)
+DDE49085BCC3FF8E058BDA05FE1EC8D7    stego.cyber.rose.edu\Hadrians Wall/HadriansWall (9).jpg                Ferber                     jphide(*)
+68B50B1926D8FE746D6F837E19AD3555    stego.cyber.rose.edu\Hadrians Wall/HadriansWall (506).jpg              ferried                    jphide(*)
+2FE67A80DABC0203358815F0254DEB7C    stego.cyber.rose.edu\Hadrians Wall/HadriansWall (616).jpg              Levitt                     jphide(***)
+42732960410F8B88E795C55C68768618    stego.cyber.rose.edu\Kremlin Walls/KremlinWall (334).jpg               astatine                   negative 
+C05F79FC429AD02ACECF82D9625E5F5D    stego.cyber.rose.edu\Kremlin Walls/KremlinWall (396).jpg               astronaut                  jphide(*)
+C99790F076D10E8A396F10B197061589    stego.cyber.rose.edu\Kremlin Walls/KremlinWall (502).jpg               athlete                    jphide(*)
+C7EAFD3C910C5E8C7916EF2900AAEDBC    stego.cyber.rose.edu\Kremlin Walls/KremlinWall (376).jpg               atonement                  jphide(***)
+1A2CDF583A05DB35F37FDC7E466C1059    stego.cyber.rose.edu\Kremlin Walls/KremlinWall (19).jpg                attainment                 jphide(*)
+006F64B84540C4FDDD93EB40931EE8B7    stego.cyber.rose.edu\Lego Wall/LegoWall (696).jpg                      Danville                   jphide(*)
+D2AEA9F269241F835B0CF1CD2BCD9F53    stego.cyber.rose.edu\Lego Wall/LegoWall (521).jpg                      immense                    jphide(**)
+3E7CCA1A8F4B706B6357CCD6AE638F29    stego.cyber.rose.edu\Lego Wall/LegoWall (674).jpg                      imminently                 jphide(**)
+86CD93FA2629B39206B7C7A80461A619    stego.cyber.rose.edu\Lego Wall/LegoWall (693).jpg                      impersonate                jphide(***)
+2800F730F2B65EB79547BE234DB99F54    stego.cyber.rose.edu\Lego Wall/LegoWall (467).jpg                      moorings                   skipped (false positive likely)
+F74CED19BA66269D8F8332CBC3D9BC34    stego.cyber.rose.edu\Prison Walls/PrisonWalls (121).jpg                attempts                   jphide(*)
+00D11E2D635F7D317720D430F4878342    stego.cyber.rose.edu\Prison Walls/PrisonWalls (477).jpg                consequent                 jphide(*)
+F08468226A769505B31742829A327129    stego.cyber.rose.edu\Prison Walls/PrisonWalls (475).jpg                conserving                 jphide(*)
+1AA2572B0353CE5EB3C6C1E70E4E1D56    stego.cyber.rose.edu\Prison Walls/PrisonWalls (224).jpg                conspires                  jphide(***)
+1093F555546D3EA8E7A213747B611ED6    stego.cyber.rose.edu\Prison Walls/PrisonWalls (323).jpg                containable                jphide(**)
+AE749191F7A7A0EC21189EFD60EF7378    stego.cyber.rose.edu\Trumps Wall/TrumpsWall (89).jpg                   contacts                   jphide(*)
+98011E6A9CAB445E366C5F916DF77CB3    stego.cyber.rose.edu\Trumps Wall/TrumpsWall (587).jpg                  ethereal                   jphide(*)
+FF7A52A923BDF1382C4E9D97C06004F5    stego.cyber.rose.edu\Trumps Wall/TrumpsWall (468).jpg                  ethnic                     jphide(***)
+DF317429BCEF30F60D9E138A2F9CF1C4    stego.cyber.rose.edu\Trumps Wall/TrumpsWall (536).jpg                  etiquette                  negative 
+D803470CA984FE4209049378241DB5A8    stego.cyber.rose.edu\Trumps Wall/TrumpsWall (189).jpg                  Europa                     negative 
+8F99DF91CDBBBD5A90B9D72C5B24AE2D    stego.cyber.rose.edu\Wall of Jericho/WallOfJericho (452).jpg           hideously                  jphide(*)
+22C926342E143572E3056B0A63334BA6    stego.cyber.rose.edu\Wall of Jericho/WallOfJericho (9).jpg             hierarchy                  jphide(**)
+D53ED0138050E5D4A4284994DCE23AE3    stego.cyber.rose.edu\Wall of Jericho/WallOfJericho (408).jpg           highness                   jphide(*)
+C81DB8297914AF2D1A59F82524A8AD90    stego.cyber.rose.edu\Wall of Jericho/WallOfJericho (467).jpg           hirers                     jphide(**)
+4D2E0DBCF5962EF02FB2281C7E7FD34D    stego.cyber.rose.edu\Wall of Jericho/WallOfJericho (543).jpg           hobbies                    jphide(**)
+E202C6D3D6AE826D12B471FE4D6F8472    stego.cyber.rose.edu\Walls of Babylon/WallsOfBabylon (757).jpg         endorsed                   jphide(***)
+DA504D1C81FC7A10407832800FE3A13B    stego.cyber.rose.edu\Walls of Babylon/WallsOfBabylon (193).jpg         endowment                  negative 
+8B0E5F7457243A2EC60E09A2B8E94FB0    stego.cyber.rose.edu\Walls of Babylon/WallsOfBabylon (101).jpg         enforcer                   jphide(**)
+2D324A8EB23355B2941F00BDCCC2A4D0    stego.cyber.rose.edu\Walls of Babylon/WallsOfBabylon (182).jpg         enjoins                    jphide(*)
+4C3167C9DF4FBD0E4E89B8932281F87A    stego.cyber.rose.edu\Walls of Babylon/WallsOfBabylon (86).jpg          enlarged                   jphide(***)
+1E0A6F1DABC9BFB65040D3B2E82D47B1    stego.cyber.rose.edu\Walls of Ston/WallsOfSton (580).jpg               autocrats                  jphide(*)
+78B15144455A56C2C6E46B2A4A8889F6    stego.cyber.rose.edu\Walls of Ston/WallsOfSton (681).jpg               automation                 jphide(***)
+AF6ADC6397380696CAEB54D5DB9E0B36    stego.cyber.rose.edu\Walls of Ston/WallsOfSton (633).jpg               automotive                 jphide(*)
+49665E0A7D336767749C5E93F3984EF4    stego.cyber.rose.edu\Walls of Ston/WallsOfSton (386).jpg               avert                      jphide(*)
+EA3F119545A3017B7C2A42EAA772ED2E    stego.cyber.rose.edu\Walls of Ston/WallsOfSton (436).jpg               awnings                    skipped (false positive likely)
+1DC600902802A45F3D2B176F0DF17808    stego.cyber.rose.edu\Walls of Troy/WallsOfTroy (492).jpg               bachelors                  jphide(**)
+769D8BF2768ABE71BEA3E429170377B2    stego.cyber.rose.edu\Walls of Troy/WallsOfTroy (491).jpg               bacilli                    jphide(***)
+A26241B92670C2C3B9DB6D0BC399D854    stego.cyber.rose.edu\Walls of Troy/WallsOfTroy (663).jpg               bacillus                   jphide(***)
+635528505977C2267A3017CDE7C638AA    stego.cyber.rose.edu\Walls of Troy/WallsOfTroy (355).jpg               back                       negative 
+5F970CD436EF48A6AEE525C6249FCFD2    stego.cyber.rose.edu\Walls of Troy/WallsOfTroy (769).jpg               backache                   jphide(**)
+B696C8E9215F52154127F736CBBCF06E    stego.cyber.rose.edu\Western Wall/WesternWall (743).jpg                brigade                    negative 
+03E6A1CBCDDF3F814DDEEDDC6AA6DF44    stego.cyber.rose.edu\Western Wall/WesternWall (504).jpg                brigades                   jphide(***)
+699963D535A93B5BE0DBAC3F89FDEBBE    stego.cyber.rose.edu\Western Wall/WesternWall (865).jpg                brigadier                  jphide(*)
+29E7650F2A4CBDB089E759E6B9606B51    stego.cyber.rose.edu\Western Wall/WesternWall (712).jpg                brigadiers                 negative 
+953C6845061B5C2601AD864928FA50FD    stego.cyber.rose.edu\Western Wall/WesternWall (289).jpg                Brigadoon                  jphide(*)
